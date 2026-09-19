@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "9ffd15b3c24b9ac62d3c581e",
+  "owner": "uyd5qu",
+  "repo": "page-0a0b6b6509ccab2fdece821b",
+  "title": "小火箭节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0a0b6b6509ccab2fdece821b",
+      "a": "BoomCloud",
+      "b": "小火箭节点",
+      "entity": "BoomCloud",
+      "brand": "小火箭节点",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "58192b41aa2c8019c93cf8e5627b04a622e6ba85891eb7f94bc823e49cbfa23a",
+      "content": {
+        "primary_entity": "BoomCloud",
+        "keyword1": "BoomCloud",
+        "keyword2": "小火箭节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，参考对应文档导入订阅。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择套餐，完成订阅即可连接使用。",
+          "AI_CLOSING_TITLE": "选好套餐，连接 BoomCloud",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档套餐，月付价格从 ¥15 到 ¥85，按年付分别仅需 ¥150、¥350 和 ¥850。旗舰版支持 5 台设备同时在线，配备 IPLC 专线节点与 7x24 优先工单支持，适合对延迟敏感的游戏与流媒体场景。",
+          "AI_FEATURES_INTRO": "围绕套餐档位、设备数量和订阅周期整理三点，帮助快速判断适合自己的方案。",
+          "AI_FEATURES_TITLE": "套餐选择参考",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备、旗舰版 5 台、团队版 20 台，按终端数量匹配。",
+          "AI_FEATURE_TITLE_1": "按设备选套餐",
+          "AI_FEATURE_TEXT_2": "月付灵活，按年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850。",
+          "AI_FEATURE_TITLE_2": "订阅周期与价格",
+          "AI_FEATURE_TEXT_3": "旗舰版 IPLC 专线适合游戏加速，团队版支持企业定制路由。",
+          "AI_FEATURE_TITLE_3": "线路与场景",
+          "AI_GUIDE_INTRO": "从确认需求到完成客户端订阅配置，只需三步。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "BoomCloud 提供基础版、旗舰版与团队版三档海外加速套餐，覆盖 3 至 20 台设备同时在线，月付与年付灵活可选，适合个人流媒体、游戏加速及小型团队使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，适配不同设备规模",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线优化游戏延迟",
+          "AI_HIGHLIGHT_3": "月付年付灵活，年付更省",
+          "AI_PLANS_INTRO": "基础版 100GB/3 台，旗舰版 300GB/5 台，团队版 1000GB/20 台，年付价格分别为 ¥150、¥350 和 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量、流量需求和预算，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备系统和同时在线数量限制。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "依据对应客户端的订阅配置文档完成导入，连接节点即可使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "BoomCloud 套餐与客户端",
+          "AI_FAQ_ANSWER_1": "基础版适合 1-2 人日常使用，100GB 流量和 3 台设备能满足手机、电脑加平板的常见组合，年付 ¥150 较为经济。",
+          "AI_FAQ_ANSWER_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线游戏加速优化和全节点原生流媒体解锁，适合有多设备与流媒体需求的用户。",
+          "AI_FAQ_ANSWER_3": "手机端可使用 Shadowrocket、Surfboard 等客户端，电脑端可选 Clash Verge、Mihomo Party 等，按客户端文档导入订阅即可。",
+          "AI_FAQ_ANSWER_4": "同一时间在线设备数按套餐限制，基础版 3 台、旗舰版 5 台、团队版 20 台，超出后新设备需等待已有设备下线。",
+          "AI_FAQ_ANSWER_5": "基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，年付相比月付有一定优惠，可按使用周期选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合什么用户？",
+          "AI_FAQ_QUESTION_2": "旗舰版多了哪些权益？",
+          "AI_FAQ_QUESTION_3": "手机和电脑用什么客户端？",
+          "AI_FAQ_QUESTION_4": "同时在线设备数怎么算？",
+          "AI_FAQ_QUESTION_5": "年付和月付价格差多少？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b245aab9ed83f89286a4665ecabb282a906d48fef13cb60f5e2ff891827760a4",
+    "sitemap.xml": "8a94e1b6cffc6cb0c03aa6fbf3ff0a008954cf59543392b37530299b3c9ab721",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "7262807fc4618c84d33cf3fdbd45347f04e73f32075b55fa214796332a9656d3"
+}
